@@ -13,6 +13,6 @@ This repo incldes contents as following:
 
 📝 GrimmsPrompt.csv | A spreadsheet for the trained and tested endings for *Grimms' Fairy Tales*
 
-📁 Collection| A repository for results and figures collection
+📁 collection| A repository for results and figures collection
 
 > [1] The GPT-2 original model is [here](https://github.com/karpathy/minGPT) for reference, it also has a TensorFlow embeded version [here](https://github.com/kamalkraj/minGPT-TF)
